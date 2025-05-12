@@ -20,9 +20,6 @@ This repository contains experiments inspired by **retrieval-based learning** fr
 - Occlusion levels: 0%, 25%, 50%, 75%.
 - Measured and visualized how occlusion affects retrieval effort and generalization.
 
-### **Experiment 4: Future Work / Extended Designs**
-- Placeholder for additional modifications to the retrieval framework.
-
 ## Outputs
 
 Final plots and CSV data from each experiment are saved in:
